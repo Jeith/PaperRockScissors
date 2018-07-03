@@ -1,2 +1,0 @@
-# PaperRockScissors
-Project for theOdinProject
